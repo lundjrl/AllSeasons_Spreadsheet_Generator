@@ -1,0 +1,9 @@
+How to use this program:
+1. Open your route file in streets and trips.
+2. Click "Edit" > "Copy Directions".
+3. Paste the directions in NotePad or some other text editor.
+4. Save the directions as a file named after the route. (EX: A Tuesday route should be called "Tues.txt").
+5. Follow steps 1-4 until you have all of your routes (Tuesday, East, SouthWed, Thursday, Friday).
+6. Copy your Tuesday, East, SouthWed, Thursday, and Friday routes to the "Files" folder of this program.
+7. Open a terminal, go to the program folder, and type "node index.js".
+8. Use the file created however you like. If the month is May then look for a file called "050621MaySPREADSHEET.csv"
