@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "gamunu.vscode-yarn",
+    "streetsidesoftware.code-spell-checker",
+    "wix.vscode-import-cost"
+  ]
+}
