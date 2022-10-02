@@ -2,5 +2,5 @@
 node_modules
 *.csv
 *.xlsx
-package-lock*
+yarn.lock
 Files/*
